@@ -11,5 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "@material/material-color-utilities": "^0.3.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "typescript": "^5.5.4"
   }
 }
