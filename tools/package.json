@@ -3,9 +3,10 @@
   "version": "0.0.1",
   "dependencies": {
     "@nx/devkit": "19.6.4",
-    "tslib": "^2.3.0"
+    "tslib": "^2.3.0",
+    "@material/material-color-utilities": "0.3.0"
   },
-  "type": "commonjs",
+  "type": "module",
   "main": "./src/index.js",
   "typings": "./src/index.d.ts",
   "private": true,
