@@ -1,0 +1,9 @@
+{
+  "generators": {
+    "test-material": {
+      "factory": "./src/generator",
+      "schema": "./src/schema.json",
+      "description": "test-material generator"
+    }
+  }
+}
